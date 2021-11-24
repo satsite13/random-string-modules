@@ -1,7 +1,7 @@
-# random-string-module
+# random-string-module (is actually random ltrs)
 Returns alpha-numeric strings
 
-## HOW TO INSTALL
+## HOW TO INSTALLED
 # npm install random-string-module --save
 
 ## HOW TO USE
